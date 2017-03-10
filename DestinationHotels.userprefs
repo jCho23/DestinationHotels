@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F23E84FC-079C-4D80-AF48-CC32B2CCE9FA}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.DestinationHotels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DestinationHotels/Tests.cs">
+    <Files>
+      <File FileName="DestinationHotels/AppInitializer.cs" Line="34" Column="23" />
+      <File FileName="DestinationHotels/Tests.cs" Line="49" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
